@@ -2,11 +2,6 @@
 using namespace std;
 typedef long long ll;
 
-void tf(bool &state) {
-	if (state) state = false;
-	else state = true;
-}
-
 int main()
 {
 	int t; cin >> t;
